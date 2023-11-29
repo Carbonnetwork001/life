@@ -29,3 +29,10 @@ a{
     padding-left: 50px;
     text-align: center;
 }
+
+@media screen {
+   body {
+    background-color: white;
+    }
+    
+}
