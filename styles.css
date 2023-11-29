@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    place-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+h1{
+    color: color-mix(in srgb-linear,rgb(165, 8, 8) 50%, gray 50%);
+}
+
+p{
+    color: color-mix(in srgb-linear,rgb(165, 8, 8) 50%, gray 50%);
+}
+
+a{
+    text-decoration: none;
+    color: color-mix(in srgb-linear,rgb(165, 8, 8) 50%, gray 50%);
+    background-color: palevioletred;
+}
+
+.description{
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: center;
+}
